@@ -1,7 +1,3 @@
-Here’s a clean README.md you can directly paste into your repo. It explains the project clearly for professors and teammates.
-
-:::writing{variant=“standard” id=“readme1”}
-
 Smart Traffic Signal Simulation 🚦
 
 An AI-based smart traffic signal simulation built using Python and Pygame.
